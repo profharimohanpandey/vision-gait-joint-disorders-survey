@@ -1,0 +1,58 @@
+\begin{figure}[!htbp]
+\centering
+\begin{tikzpicture}[
+  x=2.65cm, y=1cm,
+  period/.style={anchor=north, font=\footnotesize\bfseries, inner sep=1pt},
+  record/.style={anchor=north, text width=2.48cm, align=center, font=\scriptsize, inner sep=0pt},
+  time axis/.style={-{Stealth[length=2mm]}, draw=black!75, line width=0.65pt}
+]
+\foreach \row in {0,-2.80} {
+  \draw[time axis] (-0.50,\row) -- (5.54,\row);
+  \foreach \slot in {0,1,2,3,4,5}
+    \fill[black!75] (\slot,\row) circle[radius=1.15pt];
+}
+\foreach \years [count=\slot from 0] in {1996--2006,2007--2011,2012,2014,2015--2016,2017--2018}
+  \node[period] at (\slot,-0.13) {\years};
+\foreach \years [count=\slot from 0] in {2019--2020,2021,2022,2023,2024,2025}
+  \node[period] at (\slot,-2.93) {\years};
+
+\node[record] at (0,1.96) {\textbf{Motion models and\\clinical kinematics}\\[3pt]
+  \cite{ju1996cardboard,kaufman2001gait,shakoor2003asymmetric}\\
+  \cite{weidow2006hip,bejek2006influence}};
+\node[record] at (1,1.96) {\textbf{Joint assessment\\and action labels}\\[3pt]
+  \cite{astephen2008biomechanical,butler2009gait,valderrabano2007gait}\\
+  \cite{reilly2009role,kiss2010effect,mcclelland2007gait}\\
+  \cite{kiss2011effect,mont2007gait,li2010action,uddin2011human}};
+\node[record] at (2,1.96) {\textbf{Joint mechanics\\and motion cues}\\[3pt]
+  \cite{harding2012body,simonsen2012gait,reininga2012subjects}\\
+  \cite{da2012biomechanical,eitzen2012sagittal,wang2012mining}};
+\node[record] at (3,1.96) {\textbf{Mobility classes\\and skeleton cues}\\[3pt]
+  \cite{elbaz2014novel,laroche2014classification,vemulapalli2014human}};
+\node[record] at (4,1.96) {\textbf{Biomechanics and\\deep recognition}\\[3pt]
+  \cite{favre2016gait,phinyomark2016gender,du2015hierarchical}\\
+  \cite{leightley2016automated,meyer2015biomechanical}\\
+  \cite{qingguang2015gait,schmitt2015effect}};
+\node[record] at (5,1.96) {\textbf{Markerless gait\\and recovery}\\[3pt]
+  \cite{bkaczkowicz2018gait,prakash2018vision,ong2017efficacy}};
+
+\node[record] at (0,-0.84) {\textbf{Pose-based gait\\and action labels}\\[3pt]
+  \cite{caetano2019skeleton,ahmad2019action,ro2019effects}\\
+  \cite{li2020human,rohan2020human,fan2020gaitpart}\\
+  \cite{juri2020characterization,viswakumar2019human}};
+\node[record] at (1,-0.84) {\textbf{Joint-level\\movement estimates}\\[3pt]
+  \cite{ismailidis2021kinematic,stenum2021two}\\
+  \cite{boswell2021neural,vafadar2021novel}};
+\node[record] at (2,-0.84) {\textbf{Clinical gait and\\movement studies}\\[3pt]
+  \cite{bacon2022relation,lv2022analysis,uccheddu2022rgb}\\
+  \cite{ma2022wushu,sharma2022surya,cotton2022transforming}\\
+  \cite{armstrong2022novel,suhendar2022skeletal,yadav2022skeleton}};
+\node[record] at (3,-0.84) {\textbf{Validation and\\pose consistency}\\[3pt]
+  \cite{van2023accuracy,sheu2023improvement,marusic2023evaluating}};
+\node[record] at (4,-0.84) {\textbf{Clinical gait and\\fall assessment}\\[3pt]
+  \cite{blasco2024computer,stenum2024clinical,wang2024markerless}};
+\node[record] at (5,-0.84) {\textbf{Deployment and\\repeatability}\\[3pt]
+  \cite{doong2025predicting,yan2025efficient,schoenwether2025reliability}};
+\end{tikzpicture}
+\caption{Selected studies on joint mobility, gait analysis, human action recognition and pose estimation by publication period. The upper timeline runs from 1996 to 2018 and the lower timeline continues from 2019 to 2025.}
+\label{fig:literature_timeline}
+\end{figure}
