@@ -12,7 +12,7 @@ Vikas Kumawat, Hari Mohan Pandey, Yashvardhan Sharma, Ashutosh Bhatia and Kamles
 
 ## Purpose
 
-The review asks which changes in walking associated with hip, knee and ankle mobility can be measured from video, and what evidence is needed to interpret those measurements. It connects clinical and instrumented gait studies with work on action recognition, video gait analysis and pose estimation.
+The purpose of this survey is to identify which changes in walking can be measured from video in people with hip, knee or ankle mobility problems and to clarify what evidence is needed to interpret those measurements. It draws on clinical and instrumented gait studies alongside research on action recognition, video-based gait analysis and human pose estimation.
 
 ## Key contributions
 
