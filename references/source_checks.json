@@ -1,0 +1,178 @@
+[
+  {
+    "key": "stenum2021two",
+    "checked_on": "2026-11-19",
+    "expected_title": "Two-dimensional video-based analysis of human gait using pose estimation",
+    "supplied_year": 2021,
+    "record_doi": "10.1371/journal.pcbi.1008935",
+    "record_year": 2021,
+    "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1008935",
+    "source_type": "Publisher or proceedings",
+    "publication_note": null
+  },
+  {
+    "key": "uccheddu2022rgb",
+    "checked_on": "2026-11-19",
+    "expected_title": "RGB-d-based method for measuring the angular range of hip and knee joints during home care rehabilitation",
+    "supplied_year": 2022,
+    "record_doi": "10.3390/s22010184",
+    "record_year": 2022,
+    "source_url": "https://www.mdpi.com/1424-8220/22/1/184",
+    "source_type": "Publisher or proceedings",
+    "publication_note": "The publisher records online publication in December 2021 and cites the article in the 2022 issue."
+  },
+  {
+    "key": "wang2024markerless",
+    "checked_on": "2026-11-19",
+    "expected_title": "Markerless gait analysis through a single camera and computer vision",
+    "supplied_year": 2024,
+    "record_doi": "10.1016/j.jbiomech.2024.112027",
+    "record_year": 2024,
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/38430608/",
+    "source_type": "PubMed",
+    "publication_note": null
+  },
+  {
+    "key": "stenum2024clinical",
+    "checked_on": "2026-11-19",
+    "expected_title": "Clinical gait analysis using video-based pose estimation: Multiple perspectives, clinical populations, and measuring change",
+    "supplied_year": 2024,
+    "record_doi": "10.1371/journal.pdig.0000467",
+    "record_year": 2024,
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/38530801/",
+    "source_type": "PubMed",
+    "publication_note": null
+  },
+  {
+    "key": "scataglini2024accuracy",
+    "checked_on": "2026-11-19",
+    "expected_title": "Accuracy, validity, and reliability of markerless camera-based 3D motion capture systems versus marker-based 3D motion capture systems in gait analysis: A systematic review and meta-analysis",
+    "supplied_year": 2024,
+    "record_doi": "10.3390/s24113686",
+    "record_year": 2024,
+    "source_url": "https://www.mdpi.com/1424-8220/24/11/3686",
+    "source_type": "Publisher or proceedings",
+    "publication_note": null
+  },
+  {
+    "key": "chen2022computer",
+    "checked_on": "2026-11-19",
+    "expected_title": "Computer vision and machine learning-based gait pattern recognition for flat fall prediction",
+    "supplied_year": 2022,
+    "record_doi": "10.3390/s22207960",
+    "record_year": 2022,
+    "source_url": "https://www.mdpi.com/1424-8220/22/20/7960",
+    "source_type": "Publisher or proceedings",
+    "publication_note": null
+  },
+  {
+    "key": "zhang2025myoelectric",
+    "checked_on": "2026-11-19",
+    "expected_title": "Myoelectric signal and machine learning computing in gait pattern recognition for flat fall prediction",
+    "supplied_year": 2025,
+    "record_doi": "10.1016/j.medntd.2024.100341",
+    "record_year": 2025,
+    "source_url": "https://www.sciencedirect.com/science/article/pii/S2590093524000572",
+    "source_type": "Publisher or proceedings",
+    "publication_note": "The DOI includes 2024 and the journal issue is dated March 2025."
+  },
+  {
+    "key": "zhang2024fall",
+    "checked_on": "2026-11-19",
+    "expected_title": "Fall-related gait pattern recognition based on surface electromyography using a hybrid neural network with transfer learning",
+    "supplied_year": 2024,
+    "record_doi": "10.1016/j.bspc.2024.106771",
+    "record_year": 2024,
+    "source_url": "https://www.sciencedirect.com/science/article/pii/S1746809424008292",
+    "source_type": "Publisher or proceedings",
+    "publication_note": null
+  },
+  {
+    "key": "boswell2021neural",
+    "checked_on": "2026-11-19",
+    "expected_title": "A neural network to predict the knee adduction moment in patients with osteoarthritis using anatomical landmarks obtainable from 2D video analysis",
+    "supplied_year": 2021,
+    "record_doi": "10.1016/j.joca.2020.12.017",
+    "record_year": 2021,
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/33422707/",
+    "source_type": "PubMed",
+    "publication_note": null
+  },
+  {
+    "key": "cotton2022transforming",
+    "checked_on": "2026-11-19",
+    "expected_title": "Transforming gait: Video-based spatiotemporal gait analysis",
+    "supplied_year": 2022,
+    "record_doi": "10.1109/EMBC48229.2022.9871036",
+    "record_year": 2022,
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/36085602/",
+    "source_type": "PubMed",
+    "publication_note": null
+  },
+  {
+    "key": "sethi2022comprehensive",
+    "checked_on": "2026-11-19",
+    "expected_title": "A comprehensive survey on gait analysis: History, parameters, approaches, pose estimation, and future work",
+    "supplied_year": 2022,
+    "record_doi": "10.1016/j.artmed.2022.102314",
+    "record_year": 2022,
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/35659390/",
+    "source_type": "PubMed",
+    "publication_note": null
+  },
+  {
+    "key": "wade2023examination",
+    "checked_on": "2026-11-19",
+    "expected_title": "Examination of 2D frontal and sagittal markerless motion capture: Implications for markerless applications",
+    "supplied_year": 2023,
+    "record_doi": "10.1371/journal.pone.0293917",
+    "record_year": 2023,
+    "source_url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0293917",
+    "source_type": "Publisher or proceedings",
+    "publication_note": null
+  },
+  {
+    "key": "uhlrich2023opencap",
+    "checked_on": "2026-11-19",
+    "expected_title": "OpenCap: Human movement dynamics from smartphone videos",
+    "supplied_year": 2023,
+    "record_doi": "10.1371/journal.pcbi.1011462",
+    "record_year": 2023,
+    "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1011462",
+    "source_type": "Publisher or proceedings",
+    "publication_note": null
+  },
+  {
+    "key": "augustine2025clothing",
+    "checked_on": "2026-11-19",
+    "expected_title": "The inter-trial and inter-session reliability of Theia3D-derived markerless gait analysis in tight versus loose clothing",
+    "supplied_year": 2025,
+    "record_doi": "10.7717/peerj.18613",
+    "record_year": 2025,
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/39763706/",
+    "source_type": "PubMed",
+    "publication_note": null
+  },
+  {
+    "key": "viswakumar2022omgait",
+    "checked_on": "2026-11-19",
+    "expected_title": "Development of a robust, simple, and affordable human gait analysis system using bottom-up pose estimation with a smartphone camera",
+    "supplied_year": 2022,
+    "record_doi": "10.3389/fphys.2021.784865",
+    "record_year": 2022,
+    "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.784865/full",
+    "source_type": "Publisher or proceedings",
+    "publication_note": "Published in January 2022 in the volume labelled 2021."
+  },
+  {
+    "key": "wu2012illumination",
+    "checked_on": "2026-11-19",
+    "expected_title": "Full body performance capture under uncontrolled and varying illumination: A shading-based approach",
+    "supplied_year": 2012,
+    "record_doi": "10.1007/978-3-642-33765-9_54",
+    "record_year": 2012,
+    "source_url": "https://link.springer.com/chapter/10.1007/978-3-642-33765-9_54",
+    "source_type": "Publisher or proceedings",
+    "publication_note": null
+  }
+]

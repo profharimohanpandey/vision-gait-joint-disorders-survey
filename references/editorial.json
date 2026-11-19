@@ -1,0 +1,118 @@
+{
+  "themes": [
+    "Clinical and instrumented evidence",
+    "Computer vision methods",
+    "Validation and recording conditions",
+    "Related gait and fall applications"
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "slug": "category-1",
+      "title": "Hip mobility and gait",
+      "theme": "Clinical and instrumented evidence",
+      "sections": "§5.1 and S1",
+      "description": "Hip osteoarthritis and arthroplasty studies describe changes in hip motion, walking speed, symmetry and movement at adjacent joints.",
+      "reading_note": "Check the walking speed and which limb was measured. Hip impairment can also affect loading at the knee."
+    },
+    {
+      "id": 2,
+      "slug": "category-2",
+      "title": "Knee mobility and gait",
+      "theme": "Clinical and instrumented evidence",
+      "sections": "§5.2 and S2",
+      "description": "Studies of knee osteoarthritis, rehabilitation and replacement report changes in knee angles, joint loading, walking patterns and function.",
+      "reading_note": "Check whether the result concerns pain, radiographic severity, the knee adduction moment or observed motion. Each outcome needs its own reference."
+    },
+    {
+      "id": 3,
+      "slug": "category-3",
+      "title": "Ankle and foot mobility",
+      "theme": "Clinical and instrumented evidence",
+      "sections": "§5.3 and S3",
+      "description": "Ankle osteoarthritis, ankle replacement and foot mobility studies address distal motion, propulsion and compensation during walking.",
+      "reading_note": "Identify the phase of the gait cycle and the foot and shank landmarks. Forefoot and ankle restrictions can affect similar gait measures."
+    },
+    {
+      "id": 4,
+      "slug": "category-4",
+      "title": "Clinical background and gait assessment",
+      "theme": "Clinical and instrumented evidence",
+      "sections": "§§1, 3 and 5.4",
+      "description": "Clinical texts, reviews and broader gait studies explain the variables used in assessment and why patterns must be interpreted in context.",
+      "reading_note": "Use these sources for definitions and measurement choices. Check the joint and comparison group in the relevant primary study."
+    },
+    {
+      "id": 5,
+      "slug": "category-5",
+      "title": "Human action recognition",
+      "theme": "Computer vision methods",
+      "sections": "§6.1 and S4",
+      "description": "Skeleton and movement representations are used to recognise actions from body landmarks, depth frames or motion sequences.",
+      "reading_note": "Read the task label and validation protocol before using a recognition result to support a claim about gait or joint angles."
+    },
+    {
+      "id": 6,
+      "slug": "category-6",
+      "title": "Video-based gait and joint measurement",
+      "theme": "Computer vision methods",
+      "sections": "§6.2 and S5",
+      "description": "Video and depth systems estimate gait timing, spatial measures, joint trajectories and range of motion.",
+      "reading_note": "Compare like outcomes and views. Check the calibration, units and biomechanical reference for each estimate."
+    },
+    {
+      "id": 7,
+      "slug": "category-7",
+      "title": "Human pose estimation and posture",
+      "theme": "Computer vision methods",
+      "sections": "§6.3 and S6",
+      "description": "Pose and posture studies describe how images become landmark estimates, 3D representations or movement classifications.",
+      "reading_note": "Check which joints the system actually detects, how missing landmarks are handled and which outputs were evaluated in people walking."
+    },
+    {
+      "id": 8,
+      "slug": "category-8",
+      "title": "Agreement, repeatability and clinical validation",
+      "theme": "Validation and recording conditions",
+      "sections": "§§5.4, 6.5 and 7.3",
+      "description": "Comparisons with reference systems and repeated measurements help establish when a markerless estimate is reliable in the tested setting.",
+      "reading_note": "Look at the error in the individual variable and the population used for validation. Detection, agreement and sensitivity to change answer different questions."
+    },
+    {
+      "id": 9,
+      "slug": "category-9",
+      "title": "Occlusion, clothing and illumination",
+      "theme": "Validation and recording conditions",
+      "sections": "§7.2",
+      "description": "These studies test clothing, difficult visibility or lighting, and include pose methods that address ambiguous or crowded scenes.",
+      "reading_note": "Separate missing anatomical landmarks during swing from lighting and clothing effects. Check whether the same condition was tested in the relevant gait population."
+    },
+    {
+      "id": 10,
+      "slug": "category-10",
+      "title": "Datasets and benchmark methods",
+      "theme": "Validation and recording conditions",
+      "sections": "§6.1 and S7",
+      "description": "Dataset and benchmark papers provide examples of the data and protocols used to evaluate gait or skeleton-based recognition methods.",
+      "reading_note": "Check whether the outcome is an action class, joint position or clinical gait measure, and whether subjects are held out."
+    },
+    {
+      "id": 11,
+      "slug": "category-11",
+      "title": "Gait recognition and biometrics",
+      "theme": "Related gait and fall applications",
+      "sections": "§§2.5, 3.2 and 6.2",
+      "description": "Gait recognition work contributes motion representations and context for distinguishing identification tasks from joint assessment.",
+      "reading_note": "Read identity recognition as evidence about representations. Check for separate validation before using one to estimate an angle or impairment."
+    },
+    {
+      "id": 12,
+      "slug": "category-12",
+      "title": "Fall-related gait and complementary sensing",
+      "theme": "Related gait and fall applications",
+      "sections": "§6.4",
+      "description": "Video, surface electromyography and related fall-assessment research cover altered gait patterns, functional tests and fall-related endpoints.",
+      "reading_note": "Check the endpoint and follow-up. Classifying a recorded pattern and predicting future falls call for different evaluation designs."
+    }
+  ]
+}

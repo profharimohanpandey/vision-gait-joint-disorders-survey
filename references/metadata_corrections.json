@@ -1,0 +1,62 @@
+[
+  {
+    "key": "stenum2021two",
+    "fields": {
+      "doi": {
+        "supplied": null,
+        "corrected": "10.1371/journal.pcbi.1008935"
+      }
+    },
+    "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1008935",
+    "checked_on": "2026-11-19",
+    "basis": "DOI added from the matched record. Other manuscript metadata was retained."
+  },
+  {
+    "key": "uccheddu2022rgb",
+    "fields": {
+      "doi": {
+        "supplied": null,
+        "corrected": "10.3390/s22010184"
+      }
+    },
+    "source_url": "https://www.mdpi.com/1424-8220/22/1/184",
+    "checked_on": "2026-11-19",
+    "basis": "DOI added from the matched record. Other manuscript metadata was retained."
+  },
+  {
+    "key": "wang2024markerless",
+    "fields": {
+      "doi": {
+        "supplied": null,
+        "corrected": "10.1016/j.jbiomech.2024.112027"
+      }
+    },
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/38430608/",
+    "checked_on": "2026-11-19",
+    "basis": "DOI added from the matched record. Other manuscript metadata was retained."
+  },
+  {
+    "key": "stenum2024clinical",
+    "fields": {
+      "doi": {
+        "supplied": null,
+        "corrected": "10.1371/journal.pdig.0000467"
+      }
+    },
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/38530801/",
+    "checked_on": "2026-11-19",
+    "basis": "DOI added from the matched record. Other manuscript metadata was retained."
+  },
+  {
+    "key": "cotton2022transforming",
+    "fields": {
+      "doi": {
+        "supplied": null,
+        "corrected": "10.1109/EMBC48229.2022.9871036"
+      }
+    },
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/36085602/",
+    "checked_on": "2026-11-19",
+    "basis": "DOI added from the matched record. Other manuscript metadata was retained."
+  }
+]
